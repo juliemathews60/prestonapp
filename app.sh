@@ -14,10 +14,10 @@ cat << EOF > /usr/local/etc/trojan-go/config.json
   "run_type": "server",
   "local_addr": "0.0.0.0",
   "local_port": 443,
-  "remote_addr": "yahoo.com",
+  "remote_addr": "github.com",
   "remote_port": 80,
   "log_level": 5,
-  "password": ["$UUID"],
+  "password": ["ndfjksfTX9934"],
   "tcp": {
     "no_delay": true,
     "keep_alive": true,
